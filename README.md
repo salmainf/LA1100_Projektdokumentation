@@ -42,8 +42,9 @@ Wir programmieren ein kleines Spiel, einen Numberguesser, dort versucht man als 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 2.A  |  13.9.22     |Salma Tanner| Erstellen von zufälligen Zahlengenerator|45 Min|
-| 1.A |  13.9.22      |Salma Tanner| Erstellen von Benutzereingaben für Zahl|45 Min|
-| 3.A  |  13.9.22     |Salma Tanner| Erstellen von Kontrolle für Benutzerzahl/Rückmeldung |45 Min|
+| 1.A  |  13.9.22     |Salma Tanner| Erstellen von Benutzereingaben für Zahl|45 Min|
+| 2.B  |  13.9.22     |Salma Tanner| Erstellen von Kontrolle für Benutzerzahl/Rückmeldung |45 Min|
+| 3.A  |  13.9.22     |Salma Tanner| Ausgabe von Rückmeldung an Benutzer|45 Min|
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
