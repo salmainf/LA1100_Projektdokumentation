@@ -29,9 +29,8 @@ Wir programmieren ein kleines Spiel, einen Numberguesser, dort versucht man als 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |Spiel startet, zufällige Zahl generiert, warten auf Eingabe Benutzer|  Eingeben von Zahl|Ausgabe von meiner eingegebener Zahl|
-| 1.2  |Spiel läuft   |   Zahl kontrollieren/Rückmeldung geben| Ausgabe, ob Zahl richtig ist, Rückmeldung|
-| 1.3  |Spiel ausgeführt| Warten nach eingabe von Zahl auf Rückmeldung
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+| 1.2  |Spiel läuft, Benutzer hat Zahl eingegeben| Zahl kontrollieren/Rückmeldung geben| Ausgabe, ob Zahl richtig ist, Rückmeldung ausgeben|
+| 1.3  |Spiel ausgeführt, Zahl eingegeben| Warten nach eingabe von Zahl auf Rückmeldung | Erhalten von Rückmeldung, ob Zahl richtig ist|
 
 ### 1.4 Diagramme
 
