@@ -59,10 +59,11 @@ Total: 3h
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |30.8.22|Salma Tanner|45min|15min|
+| 2.A  |30.8.22|Salma Tanner|45min|15min|
+| 2.B  |30.8.22|Salma Tanner|45min|30min|
+| 3.A  |30.8.22|Salma Tanner|45min|30min|
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
