@@ -5,8 +5,8 @@ Tanner
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|23.08.22| 0.0.1  | Start mit der Projektdokumentation, Userstories, Diagramm,Testfälle und Arbeitspaketen|
-|       | ...     |                                                              |
+|23.8.22| 0.1  | Start mit der Projektdokumentation, Userstories, Diagramm,Testfälle und Arbeitspaketen|
+|30.8.22| 0.2  | Start mit realisieren, programmieren des Numberguessers.    
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
