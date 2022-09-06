@@ -1,5 +1,5 @@
 # Projektdokumentation
-# Projekt-Dokumentation
+# Projektdokumentation
 
 Tanner
 
