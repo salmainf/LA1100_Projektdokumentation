@@ -23,7 +23,7 @@ Wir programmieren ein kleines Spiel, einen Numberguesser, dort versucht man, als
 | 2    |  Funktional     | Muss | Als ein Programmierer möchte ich zufällige Zahlen ausgeben können und Rückmeldungen geben, damit der Spieler diese Zahl erraten kann |
 | 3    |  Qualität       | Muss | Als ein Spieler möchte ich eine Mitteilung erhalten, ob ich die Zahl zu hoch oder zu  niedrig eingegeben habe|
 | 4    |  Funktional     | Muss | Als ein Programmierer möchte ich bei einer ungültigen Eingabe eine Rückmeldung geben können|
-| 5    |  Funktional     | Muss | Als ein Spieler möchte ich nach dem erraten der Zufallszahl sehen, wieviele Versuche ich gebraucht habe|
+
 
 ### 1.3 Testfälle
 
@@ -33,7 +33,7 @@ Wir programmieren ein kleines Spiel, einen Numberguesser, dort versucht man, als
 | 1.2  |Spiel läuft, Benutzer hat Zahl eingegeben| Zahl kontrollieren/Rückmeldung geben| Ausgabe, ob Zahl richtig ist, Rückmeldung ausgeben|
 | 1.3  |Spiel ausgeführt, Zahl eingegeben| Warten nach eingabe von Zahl auf Rückmeldung | Erhalten von Rückmeldung, ob Zahl richtig ist|
 | 1.4  |Spiel läuft, warten auf Eingabe Benutzer| Eingabe überprüfen, Eingabe ungültig|Ausgabe einer Nachricht und erneuter Versuch statt Ende des Programms|
-| 1.5  |Spiel läuft, Zahl erraten| Errechnen der totalen Versuche| Ausgabe der totalen Versuche|
+
 
 ### 1.4 Diagramme
 
@@ -49,8 +49,7 @@ Wir programmieren ein kleines Spiel, einen Numberguesser, dort versucht man, als
 | 2.B  |  13.9.22     |Salma Tanner| Erstellen von Kontrolle für Benutzerzahl/Rückmeldung |45 Min|
 | 3.A  |  13.9.22     |Salma Tanner| Ausgabe von Rückmeldung an Benutzer|45 Min|
 | 4.A  |  06.9.22     |Salma Tanner| Bei ungültiger Eingabe, erneuter versuch anstelle von Programmm-Ende| 45 Min|
-| 5.A  |  06.9.22     |Salma Tanner| Nach erraten der Zahl, Ausgabe von totalen Versuchen|45 Min|
-Total: 6h
+Total: 5h
 
 
 
@@ -67,6 +66,7 @@ Total: 6h
 | 2.A  |30.8.22|Salma Tanner|45min|15min|
 | 2.B  |30.8.22|Salma Tanner|45min|30min|
 | 3.A  |30.8.22|Salma Tanner|45min|30min|
+| 4.A  |06.9.22|Salma Tanner|45min|45min|
 
 
 ## 5 Kontrollieren
