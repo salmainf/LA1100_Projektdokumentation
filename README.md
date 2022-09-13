@@ -33,6 +33,7 @@ Wir programmieren ein kleines Spiel, einen Numberguesser, dort versucht man, als
 | 1.2  |Spiel läuft, Benutzer hat Zahl eingegeben| Zahl kontrollieren/Rückmeldung geben| Ausgabe, ob Zahl richtig ist, Rückmeldung ausgeben|
 | 1.3  |Spiel ausgeführt, Zahl eingegeben| Warten nach eingabe von Zahl auf Rückmeldung | Erhalten von Rückmeldung, ob Zahl richtig ist|
 | 1.4  |Spiel läuft, warten auf Eingabe Benutzer| Eingabe überprüfen, Eingabe ungültig|Ausgabe einer Nachricht und erneuter Versuch statt Ende des Programms|
+| 1.5  |Spiel läuft, schon mehrmals falsch geraten| Benutzer gibt richtige Zahl ein|Ausgabe der gebrauchten Versuche|
 
 
 ### 1.4 Diagramme
@@ -49,7 +50,8 @@ Wir programmieren ein kleines Spiel, einen Numberguesser, dort versucht man, als
 | 2.B  |  13.9.22     |Salma Tanner| Erstellen von Kontrolle für Benutzerzahl/Rückmeldung |45 Min|
 | 3.A  |  13.9.22     |Salma Tanner| Ausgabe von Rückmeldung an Benutzer|45 Min|
 | 4.A  |  06.9.22     |Salma Tanner| Bei ungültiger Eingabe, erneuter versuch anstelle von Programmm-Ende| 45 Min|
-Total: 5h
+| 5.A  |  06.9.22     |Salma Tanner| Nach erraten der Zahl, werden gebrauchte Versuche ausgegeben| 45 Min|
+Total: 6h
 
 
 
@@ -75,10 +77,13 @@ Total: 5h
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |13.9.22|Alles funktioniert, korrekte Ausgabe|Salma Tanner|
+| 1.2  |13.9.22|Vollständige ausgabe|Salma Tanner|
+| 1.3  |13.9.22|Funktioniert alles|Salma Tanner|
+| 1.4  |13.9.22|Guter Umgang mit Fehleingabe, korrekt|Salma Tanner|
+| 1.5  |13.9.22|Anzeigen der Versuche funktioniert|Salma Tanner|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Das Spiel funktioniert und beinhaltet alle Vorgaben. Jedoch hat es einen Fehler bei der Eingabe. Wenn man eine höhere Zahl als hundert eingibt, wird diese auch akzeptiert, nur bei etwas anderem als einer Zahl gibt es eine Fehlermeldung aus.
 
 ### 5.2 Exploratives Testen
 
