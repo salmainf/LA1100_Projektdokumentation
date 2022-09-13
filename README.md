@@ -13,7 +13,7 @@ Tanner
 
 ### 1.1 Ihr Projekt
 
-Wir programmieren ein kleines Spiel, einen Numberguesser, dort versucht man, als Spieler eine zufällig generierte Zahl zu erraten. 
+Wir programmieren ein kleines Spiel, einen Numberguesser, dort versucht man, als Spieler eine zufällig generierte Zahl,zwischen 1 und 100, zu erraten. 
 
 ### 1.2 User Stories
 
@@ -89,10 +89,8 @@ Das Spiel funktioniert und beinhaltet alle Vorgaben. Jedoch hat es einen Fehler 
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| I    |Benutzer-Eingabe einer Zahl über oder unter 1-100|Fehlermeldung, Aufforderung zur erneuter Eingabe|Rückmeldung, dass die Zahl zu klein oder zu gross ist|                      
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
