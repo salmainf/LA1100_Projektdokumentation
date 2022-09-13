@@ -96,4 +96,4 @@ Das Spiel funktioniert und beinhaltet alle Vorgaben. Jedoch hat es einen Fehler 
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/salmainf/Lernbericht_Numberguesser/blob/main/README.md
