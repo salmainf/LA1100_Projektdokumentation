@@ -8,6 +8,7 @@ Tanner
 |23.08.22| 0.01  | Start mit der Projektdokumentation, Userstories, Diagramm, Testfälle und Arbeitspaketen|
 |30.08.22| 0.02  | Start mit realisieren, programmieren des Numberguessers|    
 |06.09.22| 0.03  | Fortsetzen vom realisieren, Ende des realisieren|
+|13.09.22| 0.04  | Erstellen des Lernberichts, Abgabe des Projekts|
 
 ## 1 Informieren
 
