@@ -71,6 +71,7 @@ Total: 6h
 | 2.B  |30.8.22|Salma Tanner|45min|30min|
 | 3.A  |30.8.22|Salma Tanner|45min|30min|
 | 4.A  |06.9.22|Salma Tanner|45min|45min|
+| 5.A  |06.9.22|Salma Tanner|45min|45min|
 
 
 ## 5 Kontrollieren
