@@ -24,6 +24,7 @@ Wir programmieren ein kleines Spiel, einen Numberguesser, dort versucht man, als
 | 2    |  Funktional     | Muss | Als ein Programmierer möchte ich zufällige Zahlen ausgeben können und Rückmeldungen geben, damit der Spieler diese Zahl erraten kann |
 | 3    |  Qualität       | Muss | Als ein Spieler möchte ich eine Mitteilung erhalten, ob ich die Zahl zu hoch oder zu  niedrig eingegeben habe|
 | 4    |  Funktional     | Muss | Als ein Programmierer möchte ich bei einer ungültigen Eingabe eine Rückmeldung geben können|
+| 5    |  Qualität       | Muss | Als ein Spieler möchte ich, dass ich nach dem erraten der Zahl meine Versuche angezeigt bekomme|
 
 
 ### 1.3 Testfälle
